@@ -1,0 +1,5 @@
+names:
+- food
+nc: 1
+train: C:\Users\bharg\Downloads\fa\dataset\images\train
+val: C:\Users\bharg\Downloads\fa\dataset\images\val
